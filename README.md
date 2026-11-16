@@ -1,4 +1,4 @@
-# asmfmt
+# asm files Formater
 
 Lines up the columns of 8080 / 8085 / Z80 / M80 / asmx assembler source files:
 
